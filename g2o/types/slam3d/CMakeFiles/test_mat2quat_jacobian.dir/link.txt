@@ -1,0 +1,1 @@
+/usr/bin/g++    -std=c++11  -Wall -W -g3 -gdwarf-2 -O0   CMakeFiles/test_mat2quat_jacobian.dir/test_mat2quat_jacobian.cpp.o  -o ../../../build/test_mat2quat_jacobian -rdynamic ../../../lib/libg2o_types_slam3d_d.a ../../../lib/libg2o_core_d.a ../../../lib/libg2o_stuff_d.a -lrt ../../../lib/libg2o_opengl_helper_d.a -lGLU -lGL 
